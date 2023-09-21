@@ -1,0 +1,24 @@
+{
+  "transaction": [
+    {
+      "id": "2023-09-21T17:07:32.706Z",
+      "title": "Salary",
+      "amount": "1000"
+    },
+    {
+      "id": "2023-09-21T17:07:45.965Z",
+      "title": "Shopping",
+      "amount": "-200"
+    },
+    {
+      "id": "2023-09-21T17:08:11.938Z",
+      "title": "Rent ",
+      "amount": "500"
+    },
+    {
+      "id": "2023-09-21T17:08:34.093Z",
+      "title": "Bike Expense",
+      "amount": "-150"
+    }
+  ]
+}
